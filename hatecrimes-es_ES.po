@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Hate crime mapping\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gerald Kogler <gerald@zzzinc.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: Spanish\n"
+
+#. Text in echo
+#: hatecrimes.php:62
+msgid "Adress"
+msgstr "Dirección"
+
+#. Text in echo
+#: hatecrimes.php:69
+msgid "Province"
+msgstr "Provincia"
+
+#. Text in echo
+#: hatecrimes.php:67
+msgid "City"
+msgstr "Ciudad"
+
+#. Text in echo
+#: hatecrimes.php:51 hatecrimes.php:55 hatecrimes.php:56 hatecrimes.php:58
+msgid "Date"
+msgstr "Fecha"
+
+#. Text in function
+#: hatecrimes.php:1
+msgid "Hate Crime"
+msgstr "Crimen de odio"
+
+#. Text in function
+#: hatecrimes.php:1
+msgid "Hate Crime details"
+msgstr "Detalles del crimen de odio"
+
+#. Text in function
+#: hatecrimes.php:1
+msgid "Hate Crimes"
+msgstr "Crimenes de odio"
+
+#. Text in echo
+#: hatecrimes.php:95
+msgid "Latitude"
+msgstr "Latitude"
+
+#. Text in echo
+#: hatecrimes.php:94
+msgid "Location"
+msgstr "Lugar"
+
+#. Text in echo
+#: hatecrimes.php:97
+msgid "Longitude"
+msgstr "Longitude"
+
+#. Text in echo
+#: hatecrimes.php:110
+msgid "Sources"
+msgstr "Fuentes"
+
+#. Text in echo
+#: hatecrimes.php:65
+msgid "Neighbourhood"
+msgstr "Barrio"
+
+#. Text in echo
+#: hatecrimes.php:106
+msgid "Sentence"
+msgstr "Sentencia"
+
+#. Text in echo
+#: hatecrimes.php:63
+msgid "Street"
+msgstr "Calle"
+
+#. Text in echo
+#: hatecrimes.php:111
+msgid "Title"
+msgstr "Título"
+
+#. Text in echo
+#: hatecrimes.php:102
+msgid "Judicial body"
+msgstr "Órgano judicial"
+
+#. Text in function
+#: hatecrimes.php:1
+msgid "Type"
+msgstr "Tipo"
+
+#. Text in echo
+#: hatecrimes.php:113
+msgid "Legal qualification"
+msgstr "Cualificación legal"
+
+#. Text in echo
+#: hatecrimes.php:117
+msgid "Age of aggressor"
+msgstr "Edad del agressor"
+
+#. Text in echo
+#: hatecrimes.php:100
+msgid "unknown"
+msgstr "desconocido"
