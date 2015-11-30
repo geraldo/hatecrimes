@@ -21,7 +21,7 @@ Fields:
   - sources
 
 See related resources:
-  * [Wordpress plugin for mapping hate crimes: Custom post type Hate Crime](https://github.com/geraldo/hatecrimes)
-  * [Wordpress plugin for mapping hate crimes: Leaflet map](https://github.com/geraldo/hatecrimes-map)
-  * [Wordpress plugin for mapping hate crimes: Datatable](https://github.com/geraldo/hatecrimes-table)
-  * [Wordpress Nirvana child theme for mapping hate crimes](https://github.com/geraldo/hatecrimes-child)  
+  1. [Wordpress plugin for mapping hate crimes: Custom post type Hate Crime](https://github.com/geraldo/hatecrimes)
+  2. [Wordpress plugin for mapping hate crimes: Leaflet map](https://github.com/geraldo/hatecrimes-map)
+  3. [Wordpress plugin for mapping hate crimes: Datatable](https://github.com/geraldo/hatecrimes-table)
+  4. [Wordpress Nirvana child theme for mapping hate crimes](https://github.com/geraldo/hatecrimes-child)  
