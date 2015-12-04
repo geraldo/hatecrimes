@@ -20,6 +20,11 @@ Fields:
   - age of agressor
   - sources
 
+Supported languaes:
+  - english (default)
+  - [spanish](https://github.com/geraldo/hatecrimes/blob/master/hatecrimes-es_ES.po)
+  - [catalan](https://github.com/geraldo/hatecrimes/blob/master/hatecrimes-ca_ES.po)
+
 See related resources:
   1. [Wordpress plugin for mapping hate crimes: Custom post type Hate Crime](https://github.com/geraldo/hatecrimes)
   2. [Wordpress plugin for mapping hate crimes: Leaflet map](https://github.com/geraldo/hatecrimes-map)
