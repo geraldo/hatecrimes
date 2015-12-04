@@ -9,7 +9,7 @@ Text Domain: hatecrimes
 
 wp_enqueue_script('jquery-ui-datepicker');
 wp_enqueue_script('jquery-ui-tabs');
-wp_enqueue_style('jquery-ui-css', 'http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/jquery-ui.css');
+wp_enqueue_style('jquery-ui-css', plugins_url('/lib/jquery-ui.min.css', __FILE__ ));
 
 /* load textdomain */
 add_action( 'init', 'hatecrime_load_textdomain' );
@@ -120,10 +120,6 @@ function add_hatecrime_details_hatecrime_meta_box() {
 		<input type="text" name="sentence" value="<?= @$custom['sentence'][0] ?>" class="width99 translate" />
 	</p>
 	<p>
-		<label><?php _e('Legal qualification', 'hatecrimes')?>:</label> 
-		<input type="text" name="legal" value="<?= @$custom['legal'][0] ?>" class="width99 translate" />
-	</p>
-	<p>
 		<label><?php _e('Age of aggressor', 'hatecrimes')?>:</label> 
 		<input type="text" name="age" value="<?= @$custom['age'][0] ?>" />
 	</p>
@@ -170,7 +166,6 @@ function save_hatecrime_custom_fields() {
     update_post_meta($post->ID, "longitude", @$_POST["longitude"]);
     update_post_meta($post->ID, "trial", @$_POST["trial"]);
     update_post_meta($post->ID, "sentence", @$_POST["sentence"]);
-    update_post_meta($post->ID, "legal", @$_POST["legal"]);
     update_post_meta($post->ID, "age", @$_POST["age"]);
     update_post_meta($post->ID, "sources", @$_POST["sources"]);
   }
@@ -182,7 +177,7 @@ add_action( 'save_post', 'save_hatecrime_custom_fields' );
 function add_jquery_validation_hatecrime() {
     wp_enqueue_script(
 		'jquery-validate',
-		plugin_dir_url( __FILE__ ) . 'jquery.validate.min.js',
+		plugin_dir_url( __FILE__ ) . '/lib/jquery.validate.min.js',
 		array('jquery'),
 		'1.11.2',
 		true

@@ -9,12 +9,12 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "X-Generator: Poedit 1.5.4\n"
-"Language: Spanish\n"
+"Language: Catalan\n"
 
 #. Text in echo
 #: hatecrimes.php:62
 msgid "Adress"
-msgstr "Dirección"
+msgstr "Adreça"
 
 #. Text in echo
 #: hatecrimes.php:69
@@ -24,27 +24,27 @@ msgstr "Provincia"
 #. Text in echo
 #: hatecrimes.php:67
 msgid "City"
-msgstr "Ciudad"
+msgstr "Ciutat"
 
 #. Text in echo
 #: hatecrimes.php:51 hatecrimes.php:55 hatecrimes.php:56 hatecrimes.php:58
 msgid "Date"
-msgstr "Fecha"
+msgstr "Data"
 
 #. Text in function
 #: hatecrimes.php:1
 msgid "Hate Crime"
-msgstr "Crimen de odio"
+msgstr "Crim d'odi"
 
 #. Text in function
 #: hatecrimes.php:1
 msgid "Hate Crime details"
-msgstr "Detalles del crimen de odio"
+msgstr "Detallis del crim d'odi"
 
 #. Text in function
 #: hatecrimes.php:1
 msgid "Hate Crimes"
-msgstr "Crimenes de odio"
+msgstr "Crims d'odi"
 
 #. Text in echo
 #: hatecrimes.php:95
@@ -54,7 +54,7 @@ msgstr "Latitude"
 #. Text in echo
 #: hatecrimes.php:94
 msgid "Location"
-msgstr "Lugar"
+msgstr "Lloc"
 
 #. Text in echo
 #: hatecrimes.php:97
@@ -69,7 +69,7 @@ msgstr "Fuentes"
 #. Text in echo
 #: hatecrimes.php:65
 msgid "Neighbourhood"
-msgstr "Barrio"
+msgstr "Barri"
 
 #. Text in echo
 #: hatecrimes.php:106
@@ -79,37 +79,37 @@ msgstr "Sentencia"
 #. Text in echo
 #: hatecrimes.php:63
 msgid "Street"
-msgstr "Calle"
+msgstr "Carrer"
 
 #. Text in echo
 #: hatecrimes.php:111
 msgid "Title"
-msgstr "Título"
+msgstr "Títol"
 
 #. Text in echo
 #: hatecrimes.php:102
 msgid "Judicial body"
-msgstr "Órgano judicial"
+msgstr "Òrgan judicial"
 
 #. Text in function
 #: hatecrimes.php:1
 msgid "Type"
-msgstr "Tipología"
+msgstr "Tipologia"
 
 #. Text in echo
 #: hatecrimes.php:113
 msgid "Delict"
-msgstr "Delito"
+msgstr "Delicte"
 
 #. Text in echo
 #: hatecrimes.php:117
 msgid "Age of aggressor"
-msgstr "Edad del agresor"
+msgstr "Edat del agressor"
 
 #. Text in echo
 #: hatecrimes.php:100
 msgid "unknown"
-msgstr "Desconocido"
+msgstr "Desconegut"
 
 #. Text in echo
 #: hatecrimes.php:100
@@ -119,4 +119,4 @@ msgstr "Idioma"
 #. Text in echo
 #: hatecrimes.php:100
 msgid "Register"
-msgstr "Ficha"
+msgstr "Fitxa"
