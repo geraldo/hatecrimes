@@ -120,3 +120,8 @@ msgstr "Idioma"
 #: hatecrimes.php:100
 msgid "Register"
 msgstr "Ficha"
+
+#. Text in echo
+#: hatecrimes.php:100
+msgid "Name"
+msgstr "Nombre"
