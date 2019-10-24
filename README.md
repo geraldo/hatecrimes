@@ -1,7 +1,7 @@
 # hatecrimes
 Wordpress plugin for mapping hate crimes: Custom post type Hate Crime 
 
-This plugin adds a custom post type called Hate Crime to Wordpress. Actually it's used for mapping hate crimes in Spain at http://crimenesdeodio.info. The following taxonomies and fields are created:
+This plugin adds a custom post type called Hate Crime to Wordpress. Actually it's used for mapping hate crimes in Spain at https://crimenesdeodio.info. The following taxonomies and fields are created:
 
 Taxonomies:
   - Type
